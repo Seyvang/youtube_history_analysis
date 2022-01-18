@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "react-bootstrap": "^2.1.1",
+    "react-form-hook": "^0.0.1"
+  },
+  "proxy": "http://localhost:5000"
+}
